@@ -1,3 +1,3 @@
 let myNumbers = [1, 2, 3, 4, 5];
 console.log(myNumbers[0]);
-console.log(myNubmers[4]);
+console.log(myNumbers[4]);
